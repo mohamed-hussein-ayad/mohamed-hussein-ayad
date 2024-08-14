@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohamed Ayad
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning New human languages and computer languages
+- 📫 How to reach me E-mail : mo.ayad.9@outlook.com
+- ⚡ Fun fact: That I love languages
