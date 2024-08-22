@@ -1,6 +1,6 @@
 
-<!-- [![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrY2p5OTNoNndieWpkZDNoNDk5ZTUyNWM0b25ydWM3bjcybDBraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif width="1000")](https://rishavchanda.io) -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrY2p5OTNoNndieWpkZDNoNDk5ZTUyNWM0b25ydWM3bjcybDBraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="1000" >
+<!-- [![MasterHead](http://aweber.design/gifs/images/Sans/Sans-Blue-BBG.gif)](https://rishavchanda.io) -->
+<img src="http://aweber.design/gifs/images/Sans/Sans-Blue-BBG.gif" width="1000" >
 <h1 align="center">Hi 👋, I'm Mohamed Ayad</h1>
 <h3 align="center">Front-End Developer</h3>
 
