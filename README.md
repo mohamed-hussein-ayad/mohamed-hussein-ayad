@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Pharao101](pharao101.tech)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://mohamed-ayad.netlify.app/](https://mohamed-ayad.netlify.app/)
 
