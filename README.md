@@ -2,16 +2,16 @@
 <!-- [![MasterHead](http://aweber.design/gifs/images/Sans/Sans-Blue-BBG.gif)](https://rishavchanda.io) -->
 <img src="http://aweber.design/gifs/images/Sans/Sans-Blue-BBG.gif" width="1000" >
 <h1 align="center">Hi 👋, I'm Mohamed Ayad</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJoeTI2aDkzNmZyOHUxdzJwazB4d2Z2N2I0dG1lcWJmeWI5M2o0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayadcode&label=Profile%20views&color=0e75b6&style=flat" alt="ayadcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ayad9&label=Profile%20views&color=0e75b6&style=flat" alt="ayadcode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!--- 🔭 I’m currently working on [Pharao101](pharao101.tech)-->
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Web vulnerability**
 
 - 👨‍💻 All of my projects are available at [https://ayadcode.netlify.app/](https://ayadcode.netlify.app/)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayadcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayadcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ayad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayadcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
